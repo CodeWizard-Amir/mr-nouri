@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Peyda ExtLt';
+    src: url('Peyda-ExtraLight.eot');
+    src: url('Peyda-ExtraLightd41d.eot?#iefix') format('embedded-opentype'),
+        url('Peyda-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Peyda ExtBd';
+    src: url('Peyda-ExtraBold.eot');
+    src: url('Peyda-ExtraBoldd41d.eot?#iefix') format('embedded-opentype'),
+        url('Peyda-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Peyda';
+    src: url('Peyda-Bold.eot');
+    src: url('Peyda-Boldd41d.eot?#iefix') format('embedded-opentype'),
+        url('Peyda-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Peyda Med';
+    src: url('Peyda-Medium.eot');
+    src: url('Peyda-Mediumd41d.eot?#iefix') format('embedded-opentype'),
+        url('Peyda-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Peyda';
+    src: url('Peyda-Light.eot');
+    src: url('Peyda-Lightd41d.eot?#iefix') format('embedded-opentype'),
+        url('Peyda-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Peyda';
+    src: url('Peyda-Regular.eot');
+    src: url('Peyda-Regulard41d.eot?#iefix') format('embedded-opentype'),
+        url('Peyda-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Peyda';
+    src: url('Peyda-Thin.eot');
+    src: url('Peyda-Thind41d.eot?#iefix') format('embedded-opentype'),
+        url('Peyda-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Peyda SemBd';
+    src: url('Peyda-SemiBold.eot');
+    src: url('Peyda-SemiBoldd41d.eot?#iefix') format('embedded-opentype'),
+        url('Peyda-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Peyda';
+    src: url('Peyda-Black.eot');
+    src: url('Peyda-Blackd41d.eot?#iefix') format('embedded-opentype'),
+        url('Peyda-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
